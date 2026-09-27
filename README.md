@@ -1,5 +1,4 @@
 # 💫 About Me:
-- author of [PETER](https://peter-app-cf.pages.dev)
 - currently working on a project called [PETER](https://github.com/yncynotdev/peter) with real loyal user
 - open for work
 
