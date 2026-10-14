@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-- currently working on a project called [PETER](https://github.com/yncynotdev/peter) with real loyal user
+- currently working on a project called [ClockUp](https://github.com/yncynotdev/ClockUp) with real **single** loyal user
 - open for work
 
 ---
